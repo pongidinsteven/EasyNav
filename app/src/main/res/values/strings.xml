@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EasyNav</string>
+    <string name="search">Search</string>
+    <string name="more">More</string>
+
+    <string name="location_permission_title">Location permission required</string>
+    <string name="location_permission_message">Location permission is required for this app function properly. Please allow location permission.</string>
+    <string name="allow">Allow</string>
+    <string name="deny">Deny</string>
+</resources>
